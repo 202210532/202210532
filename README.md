@@ -6,4 +6,4 @@ I am creating creating this repository to distribute a landing page website that
 
 The following are the files that are comprised within the said landing page:
 
-[Activity 1] (https://202210532.github.io/202210532/Activity%201%20-%20WEB%20DES%20(LAB)/index.html)
+[Activity 1](https://202210532.github.io/202210532/Activity%201%20-%20WEB%20DES%20(LAB)/index.html)
