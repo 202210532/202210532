@@ -2,8 +2,6 @@
 
 A second year sudent IT student who is currently studying the fields of Web Designing
 
-I am creating creating this repository to distribute a landing page website that could assist me in storing valuable files upon my learnings about the course subject, Advanced Web Design.
-
 This repository was created to distribute a landing page that could assist me in storing activity files from the course subject, Advance Web Design
 
 The following are the files that are within the said landing page:
