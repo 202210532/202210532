@@ -1,4 +1,4 @@
-# Hi There!, I'm Charles
+# Hi There! 👋, I'm Charles
 
 A second year sudent IT student who is currently studying the fields of Web Designing
 
