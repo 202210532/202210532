@@ -23,7 +23,7 @@ This repository was created to distribute a landing page that could assist me in
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/202210532"><img src="https://github-readme-stats.vercel.app/api?username=202210532&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="202210532's GitHub stats" /></a>
+<a href="http://www.github.com/202210532"><img src="https://github-readme-stats.vercel.app/api?username=202210532&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="202210532's GitHub stats" /></a>
 
 ### The following are the files that are within the said landing page:
 
