@@ -1,6 +1,6 @@
-# Hi There! 👋, I'm Charles
+# Hey! 👋, I'm Charles
 
-A second year sudent IT student who is currently studying the fields of Web Designing
+A second year IT student who is currently studying the fields of Web Designing.
 
 This repository was created to distribute a landing page that could assist me in storing activity files from the course subject, Advance Web Design
 
