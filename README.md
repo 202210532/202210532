@@ -1,6 +1,11 @@
-# Hey! 👋, I'm Charles
+PREVIEW
+MARKDOWN
+COPY
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charles
+===============================================================================================================================
 
 A second year IT student who is currently studying the fields of Web Designing.
+-------------------------------------------------------------------------------
 
 This repository was created to distribute a landing page that could assist me in storing activity files from the course subject, Advance Web Design
 
