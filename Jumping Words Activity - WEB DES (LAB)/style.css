@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background: linear-gradient(45deg, #000000, #ffffff); 
+}
+
+.letters {
+    perspective: 1000px;
+}
+
+.letter {
+    overflow: hidden;
+    display: inline-block;
+    user-select: none;
+    line-height: 0.8;
+    font-size: 5rem;
+    color: white;
+    font-family: Verdana;
+    font-size: 100px;
+}
+
+.letter.active {
+    animation: bounce 1.5s ease-in-out backwards; 
+    transform-origin: center;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-30px);
+    }
+    60% {
+        transform: translateY(-15px);
+    }
+}
